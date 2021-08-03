@@ -1,0 +1,35 @@
+.home-container {
+  margin-left: 41px;
+}
+
+.home-container h1 {
+  margin-top: 27px;
+  font-size: 48px;
+  color: #000000;
+  letter-spacing: 0.02em;
+}
+
+.home-container p {
+  font-size: 24px;
+  color: #7e7e7e;
+  letter-spacing: 0.02em;
+}
+
+.start-button {
+  margin-top: 27px;
+  background-color: #1890ff;
+  width: 101px;
+  height: 40px;
+  border-radius: 4px;
+  color: #fff;
+  text-align: center;
+  border: unset;
+  font-weight: 400;
+}
+@media (min-width: 320px) {
+  .home-container {
+    margin-left: 20px;
+  }
+  
+  
+}
